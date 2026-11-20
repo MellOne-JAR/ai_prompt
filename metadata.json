@@ -1,0 +1,6 @@
+{
+  "name": "프롬프트 아카이브",
+  "description": "이미지·디자인 프롬프트를 분류별로 탐색하고 한 번의 클릭으로 복사할 수 있는 단일 페이지 프롬프트 보관함",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
